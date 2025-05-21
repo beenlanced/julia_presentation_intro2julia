@@ -1,63 +1,94 @@
-# intro2julia
+# Intro2Julia - A Series of Julia Coded Notebooks Introducing the Julia Programming Language.
 
-This repository contains code examples, text files, IJulia notebooks and other general materials related
-to introducing the Julia programming language, discussing its features and highlighting how it peforms. <br>
+<div align="center">
+    <img alt="Transaction Fraud Detection" src="./juliaTalk_adv4_fig.png" width="80%" height="300">
+</div>
 
-It is a hodgepodge of different topics, so be warned. Just pay attention to file names.<br>
+<br>
 
-Alrighty then, good luck and hope the material can be of use. <br>
+
+## Project Description
+
+Project folder housing numerous Julia coded examples, text files, and Jupyter notebooks showcasing the Julia programming language for a Machine Learning Meetup presetation, Learning Tuesday Talk, or general tech chat.
+
+The notebooks are the perfect aid to help introduce those new to Julia about key Julia features and highlight Julia performance benefits.
+
+
+## Objective
+
+I am a big fan and supporter of [Julia](https://julialang.org/). To better understand the programming language I put this project together
+to educate myself and to be able to present to others.
+
+
+## Tech Stack
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
+[![Julia](https://img.shields.io/badge/julia-0.6.2-pink)](https://julialang.org/)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 ## Getting Started
 
-Nothing really fancy here to mention. Just pull files as needed and run the code or
-peruse the material for information purposes. <br>
+You will need to install Julia and IJulia to utilize the Jupyter notebooks in this repository. Then, clone the repository and you are ready to go.
 
 
-### Prerequisites
+## Installation Steps
 
-You will only need access to a machines running at least Julia version 0.6.2, If you are using JuliaBox all packages and code will be setup for you. Checkout Installing section below<br>
+### Install Julia
 
+You will need at least Julia version 0.6.2
 
-### Installing
+1. **juliaup**
 
-Please go [here](https://julialang.org/downloads) for information on downloading Julia code <br>
+A recommended way to install Julia is to install [juliaup](https://github.com/JuliaLang/juliaup) which is a small, self-contained binary that will automatically install the latest stable Julia binary and help keep it up to date. It also supports installing and using different versions of Julia simultaneously.
 
-Please go [here](https://JuliaBox.com) to log-on and use JuliaBox <br>
+Install `juliaup` by running this in your terminal:
 
+```
+curl -fsSL https://install.julialang.org | sh
 
-## Deployment
+```
 
-No deployment required either!
+This will install the latest stable version of Julia, which can be launched from a command-line by typing `julia` as well as the `juliaup` tool. To install different Julia versions see `juliaup --help`.
 
-## Files and other code were built with and using:
+2. **Downloads**
+   If you want to manually download and install specific Julia versions, see the [Downloads](https://julialang.org/downloads/) page.
 
-* [ATOM](https://atom.io) - Text editor jazzed up with Juno to run Julia
-* [Julia](https://julialang.org) - Julia, the high performance dynamic programming language
-* [IJulia](https://github.com/JuliaLang/IJulia.jl) - Jupyter Notebook for Julia SOASTA
-* **AND LOVE :-P**
+### Install IJulia to Use Jupyter Notebooks
 
-## Contributing
-
-No real contributions from you are required. Please use this as needed
-
-## Versioning
-
-We use [Git](http://semver.org/) for versioning.
+Install `IJulia` using instructions [here](https://github.com/JuliaLang/IJulia.jl)
 
 
-## Authors
 
-* **Lance Hester ** - *Initial work* - 
+## Review the Notebooks
+
+Each notebook is a hodgepode of different topics illustrating Julia functionality and performance.
+
+
+
+### Final Words
+
+Thanks for visting.
+
+Give the project a star (⭐) if you liked it or if it was helpful to you!
+
+You've `beenlanced`! 😉
+
+
+
+## Acknowledgements
+
+I would like to extend my gratitude to all the individuals and organizations who helped in the development and success of this project. Your support, whether through contributions, inspiration, or encouragement, have been invaluable. Thank you.
+
+Specifically, I would like to acknowledge:
+
+- The folks at [Julialang.org](https://julialang.org/) for their installation instructions and up-to-date information on the happenings with Julia.
+
+- [Hema Kalyan Murapaka](https://www.linkedin.com/in/hemakalyan) and [Benito Martin](https://martindatasol.com/blog) for sharing their README.md templates upon which I have derieved my README.md.
 
 
 ## License
 
-N/A
-
-
-## Acknowledgments
-
-* Appreciate all the good folks at Julia Computing for all of their hard work
-* Big thanks to Philip Tellis for inspiring this effort
-* All of you for reviewing the contents of this Repo
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details
