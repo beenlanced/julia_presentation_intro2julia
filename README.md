@@ -68,9 +68,9 @@ Each notebook is a hodgepode of different topics illustrating Julia functionalit
 
 
 
-### Final Words
+## Final Words
 
-Thanks for visting.
+Thanks for visiting.
 
 Give the project a star (⭐) if you liked it or if it was helpful to you!
 
