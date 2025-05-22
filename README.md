@@ -1,7 +1,7 @@
 # Intro2Julia - A Series of Julia Coded Notebooks Introducing the Julia Programming Language.
 
 <div align="center">
-    <img alt="Transaction Fraud Detection" src="./juliaTalk_adv4_fig.png" width="80%" height="300">
+    <img alt="Julia Programming" src="./juliaTalk_adv4_fig.png" width="80%" height="300">
 </div>
 
 <br>
