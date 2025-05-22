@@ -1,7 +1,7 @@
-# Intro2Julia - A Series of Julia Coded Notebooks Introducing the Julia Programming Language.
+# Intro2Julia - A Series of Julia Coded Notebooks Introducing the Julia Programming Language
 
 <div align="center">
-    <img alt="Julia Programming" src="./juliaTalk_adv4_fig.png" width="80%" height="300">
+    <img alt="Julia Programming" src="./juliaTalk_adv4_fig.png" width="30%" height="180">
 </div>
 
 <br>
@@ -24,7 +24,7 @@ to educate myself and to be able to present to others.
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
-[![Julia](https://img.shields.io/badge/julia-0.6.2-pink)](https://julialang.org/)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
